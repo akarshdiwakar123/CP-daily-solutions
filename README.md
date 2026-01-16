@@ -3,7 +3,7 @@ Daily C++ solutions to CSES and Codeforces problems.
 
 # Daily Competitive Programming Solutions
 
-- Platforms: CSES, Codeforces
+- Platforms: CSES, Codeforces and many more
 - Language: C++
 - Focus: Problem solving, algorithms, clean code
 
